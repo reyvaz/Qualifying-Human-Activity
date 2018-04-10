@@ -1,0 +1,6 @@
+ignore/**
+__pycache__/**
+biceps_curl_variations.csv
+.ipynb_checkpoints/curls-1st_draft-checkpoint.ipynb
+.ipynb_checkpoints/curls-checkpoint.ipynb
+.ipynb_checkpoints/qualifying_workouts-checkpoint.ipynb
