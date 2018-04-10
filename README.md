@@ -1,5 +1,5 @@
 <br>
-<a href="http://nbviewer.jupyter.org/github/reyvaz/Human-Activity-Recognition/blob/master/qualifying_workouts.ipynb" target="_blank">Click Here</a>
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Qualifying-Human-Activity/blob/master/qualifying_workouts.ipynb" target="_blank">Click Here</a>
 to see the Notebook online in Jupyter nbviewer.
 
 # Qualifying Human Activity
@@ -21,7 +21,7 @@ The data comes from Veloso et al., (2013). The original dataset and more informa
 
 <br>
 <p align="center">
-<a href="http://nbviewer.jupyter.org/github/reyvaz/Human-Activity-Recognition/blob/master/qualifying_workouts.ipynb" 
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Qualifying-Human-Activity/blob/master/qualifying_workouts.ipynb" 
 rel="see html report" target="_blank">
 <img src="confusion_matrixGBM.png" alt="Drawing" width = "500"></a>
 </p>
