@@ -1,11 +1,11 @@
 <br>
-<a href="http://nbviewer.jupyter.org/github/reyvaz/Qualifying-Human-Activity/blob/master/qualifying_workouts.ipynb" target="_blank">Click Here</a>
-to see the Notebook online in Jupyter nbviewer.
 
 # Qualifying Human Activity
 
+<a href="http://nbviewer.jupyter.org/github/reyvaz/Qualifying-Human-Activity/blob/master/qualifying_workouts.ipynb" target="_blank">**Click Here**</a>
+to see the Notebook online in Jupyter nbviewer.
 
-#### Notebook testing various classification algorithms on accelerometer data to qualify how individuals perform weight-lifting exercises
+### Notebook testing various classification algorithms on accelerometer data to qualify how individuals perform weight-lifting exercises
 
 The best performing algorithms are a K-Nearest and a GBM Classifier with over **99.9% accuracy, precision, recall, and F1** on 5 classes.
 
